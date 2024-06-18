@@ -20,7 +20,7 @@ const Footer = () => {
           Looks like <span className="text-purple">someone</span> got impressed with my profile?
         </h1>
         <p className="text-white-200 md:mt-10 my-5 text-center">
-          Get in touch with me, and let's discuss how I can help you succeed in
+          Get in touch with me, and let&apos;s discuss how I can help you succeed in
           your endeavors.
         </p>
         <a href="mailto:piyushraj.code@gmail.com">
