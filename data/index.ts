@@ -192,13 +192,6 @@ export const workExperience = [
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/davschool.svg",
   },
-  {
-    id: 4,
-    title: "Coming Soon",
-    desc: "",
-    className: "md:col-span-2",
-    thumbnail: "/soon.svg",
-  },
 ];
 
 export const socialMedia = [
