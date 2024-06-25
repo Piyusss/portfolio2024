@@ -90,7 +90,7 @@ export const projects = [
     id: 3,
     title: "SaaS Automation Builder",
     des: "Automating the work becomes easier than ever.",
-    img: "/p3.svg",
+    img: "/temp-banner.png",
     iconLists: ["/ts.svg", "/tail.svg", "/re.svg", "/three.svg", "/c.svg"],
     link: "",
   },
