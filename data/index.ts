@@ -74,7 +74,7 @@ export const projects = [
     id: 1,
     title: "SaaS Automation Builder",
     des: "Automating the work becomes easier than ever.",
-    img: "/temp-banner.png",
+    img: "/uio.jpg",
     iconLists: ["/ts.svg", "/tail.svg", "/re.svg", "/c.svg","prisma-svgrepo-com.svg","stripe-icon.svg"],
     link: "",
   },
