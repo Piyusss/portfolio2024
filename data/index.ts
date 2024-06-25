@@ -72,6 +72,14 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
+    title: "SaaS Automation Builder",
+    des: "Automating the work becomes easier than ever.",
+    img: "/temp-banner.png",
+    iconLists: ["/ts.svg", "/tail.svg", "/re.svg", "/c.svg","prisma-svgrepo-com.svg","stripe-icon.svg"],
+    link: "",
+  },
+  {
+    id: 2,
     title: "Spotify UI Clone",
     des: "Incorporated smooth transitions and animations to enhance user engagement.",
     img: "/p1.svg",
@@ -79,21 +87,16 @@ export const projects = [
     link: "https://piyusss.github.io/Spotify-Clone/",
   },
   {
-    id: 2,
+    id: 3,
     title: "Chat-Cord",
     des: "The web application, powered by Socket.io enables Realtime communication b-w multiple users sitting in any part of world.",
     img: "/p2.svg",
     iconLists: ["/js.svg", "/tail.svg", "/mongodb.svg", "/html5.svg", "/re.svg"],
     link: "https://mern-chatcord-application.onrender.com/login",
   },
-  {
-    id: 3,
-    title: "SaaS Automation Builder",
-    des: "Automating the work becomes easier than ever.",
-    img: "/temp-banner.png",
-    iconLists: ["/ts.svg", "/tail.svg", "/re.svg", "/c.svg","prisma-svgrepo-com.svg","stripe-icon.svg"],
-    link: "",
-  },
+  // {
+
+  // },
   // {
   //   id: 4,
   //   title: "Lorem Epsum",
