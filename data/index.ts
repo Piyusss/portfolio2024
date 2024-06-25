@@ -72,7 +72,7 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "Spotify UI/UX Clone",
+    title: "Spotify UI Clone",
     des: "Incorporated smooth transitions and animations to enhance user engagement.",
     img: "/p1.svg",
     iconLists: ["/re.svg", "/js.svg", "/tail.svg","/html5.svg"],
