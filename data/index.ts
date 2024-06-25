@@ -88,20 +88,20 @@ export const projects = [
   },
   {
     id: 3,
-    title: "Lorem Epsum",
-    des: "Lorem epsum",
+    title: "SaaS Automation Builder",
+    des: "Automating the work becomes easier than ever.",
     img: "/p3.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
+    iconLists: ["/ts.svg", "/tail.svg", "/re.svg", "/three.svg", "/c.svg"],
     link: "",
   },
-  {
-    id: 4,
-    title: "Lorem Epsum",
-    des: "Lorem epsum",
-    img: "/p4.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "",
-  },
+  // {
+  //   id: 4,
+  //   title: "Lorem Epsum",
+  //   des: "Lorem epsum",
+  //   img: "/p4.svg",
+  //   iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+  //   link: "",
+  // },
 ];
 
 export const testimonials = [
